@@ -11,5 +11,9 @@
     "express": "~4.14.0",
     "method-override": "^2.3.6",
     "mongoose": "~4.5.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
   }
 }
